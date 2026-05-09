@@ -1,2 +1,7 @@
-streamlit
-huggingface-hub
+streamlit>=1.35
+huggingface-hub>=0.23
+pypdf>=4.2
+python-docx>=1.1
+Pillow>=10.0
+pytesseract>=0.3.10
+PyMuPDF>=1.24
